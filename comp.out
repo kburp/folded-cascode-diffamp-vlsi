@@ -1,0 +1,31 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8 and Circuit 2 cell sky130_fd_pr__pfet_01v8 are black boxes.
+Equate elements:  no current cell.
+Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
+Flattening unmatched subcell fc_diffamp_lds in circuit fc_diffamp_full_xschem.spice (0)(1 instance)
+Flattening unmatched subcell biasgen_lds in circuit fc_diffamp_full_xschem.spice (0)(1 instance)
+Flattening unmatched subcell biasgen in circuit full_fc_diffamp.spice (1)(1 instance)
+Flattening unmatched subcell fc_diffamp in circuit full_fc_diffamp.spice (1)(1 instance)
+
+Class fc_diffamp_full_xschem.spice (0):  Merged 70 parallel devices.
+Class full_fc_diffamp.spice (1):  Merged 70 parallel devices.
+Subcircuit summary:
+Circuit 1: fc_diffamp_full_xschem.spice    |Circuit 2: full_fc_diffamp.spice           
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_01v8 (86->42)           |sky130_fd_pr__nfet_01v8 (86->42)           
+sky130_fd_pr__pfet_01v8 (50->24)           |sky130_fd_pr__pfet_01v8 (50->24)           
+Number of devices: 66                      |Number of devices: 66                      
+Number of nets: 45                         |Number of nets: 45                         
+---------------------------------------------------------------------------------------
+Resolving symmetries by property value.
+Resolving symmetries by pin name.
+Netlists match with 28 symmetries.
+Cells have no pins;  pin matching not needed.
+Device classes fc_diffamp_full_xschem.spice and full_fc_diffamp.spice are equivalent.
+
+Final result: Circuits match uniquely.
+.
