@@ -49,5 +49,5 @@ C {devices/lab_pin.sym} -60 -360 2 0 {name=p11 sig_type=std_logic lab=Vcp
 }
 C {madvlsi/vdd.sym} -100 -430 0 0 {name=l7 lab=VDD}
 C {madvlsi/gnd.sym} -100 -260 0 0 {name=l8 lab=GND}
-C {/home/madvlsi/Documents/mp3/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}
 C {/home/madvlsi/Documents/mp3/biasgen_lds.sym} -130 -250 0 0 {name=X2}
+C {/home/madvlsi/Documents/mp3/second_try/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}

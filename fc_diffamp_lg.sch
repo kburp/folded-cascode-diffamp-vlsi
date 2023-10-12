@@ -112,7 +112,6 @@ C {madvlsi/gnd.sym} -310 -340 0 0 {name=l9 lab=GND}
 C {devices/lab_pin.sym} -310 -400 1 0 {name=p14 sig_type=std_logic lab=Vbn
 
 }
-C {/home/madvlsi/Documents/mp3/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}
 C {/home/madvlsi/Documents/mp3/biasgen_lds.sym} -130 -240 0 0 {name=X2}
 C {madvlsi/capacitor.sym} 270 -320 0 0 {name=C1
 value=1p
@@ -143,7 +142,6 @@ C {devices/lab_pin.sym} 300 -610 2 0 {name=p21 sig_type=std_logic lab=VoutQ
 }
 C {madvlsi/vdd.sym} -100 -680 0 0 {name=l13 lab=VDD}
 C {madvlsi/gnd.sym} -100 -510 0 0 {name=l14 lab=GND}
-C {/home/madvlsi/Documents/mp3/fc_diffamp_lds.sym} -20 -540 0 0 {name=X3}
 C {/home/madvlsi/Documents/mp3/biasgen_lds.sym} -130 -500 0 0 {name=X4}
 C {madvlsi/capacitor.sym} 290 -580 0 0 {name=C2
 value=2p
@@ -167,3 +165,5 @@ value="0 AC \{B\}"}
 C {madvlsi/depvsrc.sym} 110 -130 0 0 {name=B1
 func=v(VoutQ)}
 C {madvlsi/gnd.sym} 110 -100 0 0 {name=l16 lab=GND}
+C {/home/madvlsi/Documents/mp3/second_try/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}
+C {/home/madvlsi/Documents/mp3/second_try/fc_diffamp_lds.sym} -20 -540 0 0 {name=X3}

@@ -81,5 +81,5 @@ C {madvlsi/gnd.sym} -310 -340 0 0 {name=l9 lab=GND}
 C {devices/lab_pin.sym} -310 -400 1 0 {name=p14 sig_type=std_logic lab=Vbn
 
 }
-C {/home/madvlsi/Documents/mp3/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}
 C {/home/madvlsi/Documents/mp3/biasgen_lds.sym} -130 -250 0 0 {name=X2}
+C {/home/madvlsi/Documents/mp3/second_try/fc_diffamp_lds.sym} -20 -280 0 0 {name=X1}
